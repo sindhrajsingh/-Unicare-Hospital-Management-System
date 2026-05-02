@@ -1,0 +1,13 @@
+{
+  "name": "uhms-frontend",
+  "version": "1.0.0",
+  "description": "UniCare Hospital Management System Frontend",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
